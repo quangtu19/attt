@@ -1,0 +1,2 @@
+﻿AES_ENCRYPT
+Đây là một thông điệp bí mật!
